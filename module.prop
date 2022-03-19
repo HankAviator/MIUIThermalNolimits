@@ -1,0 +1,6 @@
+id=MIUI_thmnlmts
+name=MIUI Thermal Nolimits (mars, star)
+version=v7
+versionCode=7
+author=HankAviator
+description=Apply nolimits conf for all thermal conf, for Mi 11 Pro and Mi 11 Ultra
